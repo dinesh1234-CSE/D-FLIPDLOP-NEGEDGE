@@ -76,7 +76,7 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-04 182359](https://github.com/user-attachments/assets/4d5d5371-7502-49d6-9933-7f02fae84048)
+![Screenshot 2024-12-23 113211](https://github.com/user-attachments/assets/eeb41b4f-9874-4d9f-beb1-0b1498681044)
 
 
 **RESULTS Thus the different digital IC's are studied and truth table for different logic gates are verfied
